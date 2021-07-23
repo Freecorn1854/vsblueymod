@@ -1,4 +1,3 @@
 Tutorial:gf:1
 Greetings:bluey:1
 Viber:bluey:1
-Wrath:magma:1
